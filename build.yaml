@@ -18,7 +18,7 @@
 #
 ---
 include:
-  - board: dongle
+  - board: nice60
     shield: sofle_left
   - board: nice_nano_v2
     shield: sofle_right
